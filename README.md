@@ -1,4 +1,4 @@
-# AI in Machine Assembling
+# ML in Machine Assembling
 ### Predictive Maintenance using Machine Learning
 
 ## 📌 Overview
